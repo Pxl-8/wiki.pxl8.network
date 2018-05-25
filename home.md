@@ -1,4 +1,4 @@
-![Pxl 8](/uploads/pxl-8.png "Pxl 8"){.align-left}
+![Pxl 8](/uploads/pxl-8.png "Pxl 8"){.page-logo}
 <!-- TITLE: Pxl8 -->
 <!-- SUBTITLE: The Official Wiki for all Pxl8 Projects -->
 
