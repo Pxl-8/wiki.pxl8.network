@@ -1,6 +1,4 @@
-![Pxl 8](/uploads/pxl-8.png "Pxl 8"){.pagelogo}
-<!-- TITLE: Pxl8 -->  
-<!-- SUBTITLE: The Official Wiki for all Pxl8 Projects -->  
+![Pxl 8 Wiki Banner](/uploads/banners/pxl-8-wiki-banner.png "Pxl 8 Wiki Banner")
 # Pixels
 
 # You've Got Mail
